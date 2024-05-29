@@ -1,0 +1,42 @@
+.post {
+    background-color: rgba(235, 235, 231, 0.397);
+    width: 400px;
+    height: 600px;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 25%;
+    border-radius: 2%;
+}
+.post-header {
+}
+.post-header-icon {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+}
+.html5-icon-tex{
+    display: flex;
+    align-items: center;
+}
+i {
+    font-size: 30px;
+}
+.tex-header {
+    padding-left: 10px;
+}
+img{
+    width: 400px;
+    height: auto;
+}
+.post-body-icon{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    font-size: 25px;
+}
+header{
+    padding: 0 15px 0 15px;
+}
+section{
+    padding: 0 15px 0 15px;
+}
